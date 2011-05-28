@@ -11,4 +11,21 @@
     <name>CloudBees test</name>
     <description>Simple POM</description>
     
+  <!-- More Project Information -->
+  <url>https://github.com/Elryk/CloudbeesTest</url>
+  <inceptionYear>2011</inceptionYear>
+  <developers>
+    <developer>
+      <id>elryk</id>
+      <name>Elryk</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+      <timezone>+1</timezone>
+      <properties>
+        <picUrl>https://elryk.ci.cloudbees.com/job/Cloudbees%20Test/</picUrl>
+      </properties>
+    </developer>
+  </developers> 
+    
 </project>
