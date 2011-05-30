@@ -1,0 +1,20 @@
+# ignore the gradle output and cache directories
+/build
+/.gradle
+
+# ignore Eclipse metadata (users should run `gradle eclipse` to generate)
+.classpath
+.project
+.settings
+
+# ignore Eclipse output dir
+bin
+
+# ignore Maven output dir
+target
+
+# ignore IDEA metadata (users should run `gradle idea` to generate)
+*.iml
+*.ipr
+*.iws
+*.sw*
