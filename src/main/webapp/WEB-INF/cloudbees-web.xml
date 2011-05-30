@@ -1,0 +1,5 @@
+<resource name="jdbc/elryk" auth="Container" type="javax.sql.DataSource">
+ <param name="username" value="elryk" />
+ <param name="password" value="elryk123" />
+ <param name="url" value="jdbc:cloudbees://elryk" />
+</resource>
